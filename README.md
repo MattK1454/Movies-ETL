@@ -7,6 +7,7 @@ The purpose of this project was to extract data pertaining to movies from wikipe
 ## Results
 
 ![Movies Query](https://github.com/MattK1454/Movies-ETL/blob/main/Resources/movies_query.png)
+
 A snap shot showing the 6051 rows available in our movies database
 
 
