@@ -10,7 +10,9 @@ The purpose of this project was to extract data pertaining to movies from wikipe
 
 A snap shot showing the 6051 rows available in our movies database
 
+![Ratings Query](https://github.com/MattK1454/Movies-ETL/blob/main/Resources/ratings_query.png)
 
+A screenshot showing the 26,024,289 rows of ratings data available in the movies database.
 
 ## Summary
 
