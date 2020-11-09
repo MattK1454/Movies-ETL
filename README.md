@@ -20,3 +20,6 @@ The nature of the data found in the database we developed from the Wikipedia wil
 
 ## References
 
+1. Module 8 Challenge, https://courses.bootcampspot.com/courses/453/assignments/5615?module_item_id=79807, accessed November 8, 2020.
+
+2. Kaufmann, Matthew. Extracted_Data notebook, https://github.com/MattK1454/Movies-ETL/blob/main/Extracted_Data.ipynb, accessed November 8, 2020
