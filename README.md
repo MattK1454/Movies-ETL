@@ -10,7 +10,9 @@ The purpose of this project was to extract data pertaining to movies from wikipe
 
 A snap shot showing the 6051 rows available in our movies database
 
+![Ratings Query](https://github.com/MattK1454/Movies-ETL/blob/main/Resources/ratings_query.png)
 
+A screenshot showing the 26,024,289 rows of ratings data available in the movies database.
 
 ## Summary
 
@@ -20,3 +22,6 @@ The nature of the data found in the database we developed from the Wikipedia wil
 
 ## References
 
+1. Module 8 Challenge, https://courses.bootcampspot.com/courses/453/assignments/5615?module_item_id=79807, accessed November 8, 2020.
+
+2. Kaufmann, Matthew. Extracted_Data notebook, https://github.com/MattK1454/Movies-ETL/blob/main/Extracted_Data.ipynb, accessed November 8, 2020
